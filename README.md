@@ -2,6 +2,8 @@
 
 Интерактивная симуляция ткани, реализованная на JavaScript с использованием Three.js и метода Position-Based Dynamics (PBD).
 
+Сайт: https://semen1996.github.io/cloth-3D/
+
 ## Features
 
 - Симуляция ткани на основе сетки частиц.
